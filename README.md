@@ -1,1 +1,1 @@
-# This is repo is for projects dealing with Time Series Analysis and Data
+# This is a repo is for projects dealing with Time Series Analysis and Data
